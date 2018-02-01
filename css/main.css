@@ -29,7 +29,7 @@ nav ul {
 
 nav a, a:visited {
 	text-decoration: none;
-	color: #515151;
+	color: black;
 }
 
 /* Grid on index page */
@@ -37,7 +37,7 @@ nav a, a:visited {
 .wrapper {
     width: 100%;
   display: grid;
-  grid-template-columns: 1fr 3fr 3fr;
+  grid-template-columns: 22% 39% 39%;
   grid-gap: 0px;
 }
 
