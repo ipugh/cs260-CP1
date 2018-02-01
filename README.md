@@ -1,2 +1,2 @@
-# cs260-CP1
-First creative project for CS260
+# Portfolio
+This is a mock-up portfolio made to show off design.
