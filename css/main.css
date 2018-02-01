@@ -21,11 +21,7 @@ nav a, a:visited {
 	color: #515151;
 }
 
-/* grid on main page */
-
-body {
-  margin: 0px;
-}
+/* Grid on index page */
 
 .wrapper {
   display: grid;
@@ -37,4 +33,8 @@ body {
   border-radius: 5px;
   padding: 20px;
   font-size: 110%;
+}
+
+a {
+	width: 100%;
 }
