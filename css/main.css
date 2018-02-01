@@ -67,3 +67,7 @@ footer p {
 footer {
 	margin-bottom: 10px;
 }
+
+form {
+	text-align: center;
+}
