@@ -1,0 +1,23 @@
+body {
+	background-color: #F4F1BB
+	color: #515151;
+	font-family: monospace;
+	width: 66%;
+	margin: 0 auto;
+}
+
+/* NAVBAR */
+
+nav {
+	font-size: 20px;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav a, a:visited {
+	text-decoration: none;
+	color: #515151;
+}
+
