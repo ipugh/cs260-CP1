@@ -1,12 +1,11 @@
 body {
-	background-color: #919191;
 	font-family: monospace;
 	width: 66%;
 	margin: 0 auto;
 }
 
 .home-container {
-	background-color: #FFFFEE;
+	background-color: #FFFFDD;
 }
 
 img {
@@ -16,11 +15,13 @@ img {
 /* NAVBAR */
 
 nav {
+	margin-left: 20px;
 	font-size: 20px;
 	background-color: #9BC1BC;
 }
 
 nav ul {
+	padding-left: 20px;
 	list-style-type: none;
 }
 
